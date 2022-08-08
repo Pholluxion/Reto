@@ -1,0 +1,639 @@
+PS C:\Users\CENTIC\Escritorio\Taller_1\bin> dart run .\app.dart
+
+Digite el numero de nodos: 18
+Inserte valor del nodo [1]: 1
+Inserte valor del nodo [2]: 3
+Inserte valor del nodo [3]: 4
+Inserte valor del nodo [4]: 5
+Inserte valor del nodo [5]: 7
+Inserte valor del nodo [6]: 4
+Inserte valor del nodo [7]: 2
+Inserte valor del nodo [8]: 3
+Inserte valor del nodo [9]: 4
+Inserte valor del nodo [10]: 5
+Inserte valor del nodo [11]: 7
+Inserte valor del nodo [12]: 8
+Inserte valor del nodo [13]: 9
+Inserte valor del nodo [14]: 5
+Inserte valor del nodo [15]: 3
+Inserte valor del nodo [16]: 5
+Inserte valor del nodo [17]: 7
+Inserte valor del nodo [18]: 5
+
+
+=========================
+        Menu
+=========================
+
+Tu lista es: [1, 3, 4, 5, 7, 4, 2, 3, 4, 5, 7, 8, 9, 5, 3, 5, 7, 5]
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 1
+
+
+==================================================
+                  Menu Insert
+==================================================
+
+Tu lista es: [1, 3, 4, 5, 7, 4, 2, 3, 4, 5, 7, 8, 9, 5, 3, 5, 7, 5]
+
+[1] Insertar Nodo al inicio
+[2] Insertar Nodo al final
+[3] Insertar Nodo antes del Elemento X
+[4] Insertar Nodo después del Elemento X
+[5] Salir
+
+Seleccione una opción: 1
+
+Digite el valor del nodo: 44
+
+
+==================================================
+                  Menu Insert
+==================================================
+
+Tu lista es: [44, 1, 3, 4, 5, 7, 4, 2, 3, 4, 5, 7, 8, 9, 5, 3, 5, 7, 5]
+
+[1] Insertar Nodo al inicio
+[2] Insertar Nodo al final
+[3] Insertar Nodo antes del Elemento X
+[4] Insertar Nodo después del Elemento X
+[5] Salir
+
+Seleccione una opción: 2
+
+Digite el valor del nodo: 55
+
+
+==================================================
+                  Menu Insert
+==================================================
+
+Tu lista es: [44, 1, 3, 4, 5, 7, 4, 2, 3, 4, 5, 7, 8, 9, 5, 3, 5, 7, 5, 55]
+
+[1] Insertar Nodo al inicio
+[2] Insertar Nodo al final
+[3] Insertar Nodo antes del Elemento X
+[4] Insertar Nodo después del Elemento X
+[5] Salir
+
+Seleccione una opción: 3
+Insertar: 3
+Antes del elemento: 3
+
+
+==================================================
+                  Menu Insert
+==================================================
+
+Tu lista es: [44, 1, 3, 3, 4, 5, 7, 4, 2, 3, 3, 4, 5, 7, 8, 9, 5, 3, 3, 5, 7, 5, 55]
+
+[1] Insertar Nodo al inicio
+[2] Insertar Nodo al final
+[3] Insertar Nodo antes del Elemento X
+[4] Insertar Nodo después del Elemento X
+[5] Salir
+
+Seleccione una opción: 4
+Insertar: 5
+Despues del elemento: 3
+
+
+==================================================
+                  Menu Insert
+==================================================
+
+Tu lista es: [44, 1, 3, 5, 3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3, 5, 5, 7, 5, 55]
+
+[1] Insertar Nodo al inicio
+[2] Insertar Nodo al final
+[3] Insertar Nodo antes del Elemento X
+[4] Insertar Nodo después del Elemento X
+[5] Salir
+
+Seleccione una opción: 5
+
+
+=========================
+        Menu
+=========================
+
+Tu lista es: [44, 1, 3, 5, 3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3, 5, 5, 7, 5, 55]
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [44, 1, 3, 5, 3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3, 5, 5, 7, 5, 55]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 1
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [1, 3, 5, 3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3, 5, 5, 7, 5, 55]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 1
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [3, 5, 3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3, 5, 5, 7, 5, 55]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 1
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [5, 3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3, 5, 5, 7, 5, 55]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 1
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3, 5, 5, 7, 5, 55]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3, 5, 5, 7, 5]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3, 5, 5, 7]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3, 5, 5]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3, 5]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5, 3]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3, 5]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5, 3]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [3, 5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 1
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [5, 4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 1
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9, 5]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8, 9]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [4, 5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 1
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [5, 7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 1
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [7, 4, 2, 3, 5, 3, 5, 4, 5, 7, 8]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 1
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4, 5, 7, 8]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4, 5, 7]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4, 5]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 2
+
+
+==================================================
+                  Menu Delete
+==================================================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4]
+
+[1] Eliminar Nodo al inicio
+[2] Eliminar Nodo al final
+[3] Salir
+
+Seleccione una opción: 3
+
+
+=========================
+        Menu
+=========================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4]
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 3
+
+Digite el elemento que desea buscar: 5
+
+La posición numérica donde está el nodo en la lista: [4, 6]
+
+=========================
+        Menu
+=========================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4]
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 3
+
+Digite el elemento que desea buscar: 3
+
+La posición numérica donde está el nodo en la lista: [3, 5]
+
+=========================
+        Menu
+=========================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4]
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 3
+
+Digite el elemento que desea buscar: 4
+
+La posición numérica donde está el nodo en la lista: [1, 7]
+
+=========================
+        Menu
+=========================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4]
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 4
+
+El tamaño de la lista es: 7
+
+=========================
+        Menu
+=========================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4]
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 5
+
+false
+
+=========================
+        Menu
+=========================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4]
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 5
+
+false
+
+=========================
+        Menu
+=========================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4]
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 6
+
+------------------------------------------
+                     Tu lista
+------------------------------------------
+ [4]  [2]  [3]  [5]  [3]  [5]  [4]
+------------------------------------------
+
+
+=========================
+        Menu
+=========================
+
+Tu lista es: [4, 2, 3, 5, 3, 5, 4]
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 7
+
+
+=========================
+        Menu
+=========================
+
+Tu lista es: []
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 5
+
+true
+
+=========================
+        Menu
+=========================
+
+Tu lista es: []
+
+[1] Insertar Nodo
+[2] Eliminar Nodo
+[3] Buscar Nodo
+[4] Tamaño de la Lista
+[5] Comprobar Lista Vacía
+[6] Mostrar Lista
+[7] Vaciar Lista
+[8] Salir
+
+Seleccione una opción: 8
+PS C:\Users\CENTIC\Escritorio\Taller_1\bin> 
