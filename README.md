@@ -1,5 +1,6 @@
 Reto – Examen Unidad 2
 
+```log
 PS C:\Users\CENTIC\Escritorio\Reto_1> cd .\bin\
 PS C:\Users\CENTIC\Escritorio\Reto_1\bin> dart run .\app.dart
 ===================================
@@ -712,3 +713,4 @@ actividadDies   =  0
 actividadOnce   =  0
 actividadDoce   =  0
 PS C:\Users\CENTIC\Escritorio\Reto_1\bin>  
+```
