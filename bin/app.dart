@@ -20,9 +20,9 @@ Future<void> initVotacion() async {
   Console.init();
 
   for (int i = 0; i < 35; i++) {
-    print("$repo.title \n");
+    print("${repo.title} \n");
 
-    final opc = setVoto(repo.opcMenu, i);
+    final opc = setVoto(repo.opcMenu, i+1);
 
     votos[i] = opc;
   }
